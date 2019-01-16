@@ -1,2 +1,3 @@
-# technical-resume
-Julia Johnson's technical resume
+# Julia Johnson - Technical Resume
+## Technical Skills
+ -insert technical skills here
