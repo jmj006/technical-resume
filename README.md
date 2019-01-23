@@ -1,4 +1,3 @@
-  <!DOCTYPE html>
 <html>
 <head>
 <title>Julia Johnson - Technical Resume</title>
@@ -39,7 +38,7 @@
 			
 			<div class="sectionContent">
 				<article>
-					<li><h2>Github</h2></li>
+					<p style="margin-left: 40px"><h2>Github</h2></p>
 					<p>Description of github skills.</p>
 				</article>
 				
