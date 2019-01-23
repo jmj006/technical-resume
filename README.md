@@ -32,8 +32,10 @@
 			<div class="sectionContent">
 				<article>
 					<h2>University of Tulsa</h2>
-					<p class="subDetails">Majors: Computer Information Systems and Accounting</p>
-					<p>Graduating May of 2019</p>
+					<ul>
+						<li>Majors: Computer Information Systems and Accounting</li>
+						<li>Graduation Date: May 2019</li>
+					</ul>
 				</article>
 				
 			</div>
