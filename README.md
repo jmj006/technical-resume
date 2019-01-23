@@ -33,6 +33,22 @@
 		
 		<section>
 			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>University of Tulsa</h2>
+					<p class="subDetails">Majors: Computer Information Systems and Accounting</p>
+					<p>Graduating May of 2019</p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
 				<h1>Skills</h1>
 			</div>
 			
@@ -66,32 +82,9 @@
 		</section>
 		
 		
-		<section>
-			<div class="sectionTitle">
-				<h1>Education</h1>
-			</div>
-			
-			<div class="sectionContent">
-				<article>
-					<h2>University of Tulsa</h2>
-					<p class="subDetails">Majors: Computer Information Systems and Accounting</p>
-					<p>Graduating May of 2019</p>
-				</article>
-				
-			</div>
-			<div class="clear"></div>
-		</section>
+		
 		
 	</div>
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3753241-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 </body>
 </html>
