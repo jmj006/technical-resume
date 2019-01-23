@@ -54,30 +54,7 @@
 				<li>AWS</li>
 				<li>Linux</li>
 			</ul>
-				<article>
-					<h2>Github</h2>
-					<p>Description of github skills.</p>
-				</article>
 				
-				<article>
-					<h2>PowerBI</h2>
-					<p>Description of PowerBI skills.</p>
-				</article>
-				
-				<article>
-					<h2>Powershell</h2>
-					<p>Description of Powershell skills</p>
-				</article>
-				
-				<article>
-					<h2>AWS</h2>
-					<p>Description of AWS skills</p>
-				</article>
-				
-				<article>
-					<h2>Linux</h2>
-					<p>Description of Linux skills</p>
-				</article>
 			</div>
 			<div class="clear"></div>
 		</section>
