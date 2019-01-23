@@ -2,13 +2,6 @@
 <head>
 <title>Julia Johnson - Technical Resume</title>
 
-<meta name="viewport" content="width=device-width"/>
-<meta name="description" content="Julia Johnson - Technical Resume"/>
-<meta charset="UTF-8"> 
-
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
 </head>
 <body id="top">
 <div id="cv" class="instaFade">
@@ -16,10 +9,10 @@
 		
 
 		<div id="name">
-			<h1 class="quickFade delayTwo">Julia Johnson</h1>
+			<h1>Julia Johnson</h1>
 		</div>
 		
-		<div id="contactDetails" class="quickFade delayFour">
+		<div id="contactDetails">
 			<ul>
 				<li>e: <a href="mailto:julia-johnson@utulsa.edu" target="_blank">julia-johnson@utulsa.edu</a></li>
 				
@@ -29,7 +22,7 @@
 		<div class="clear"></div>
 	</div>
 	
-	<div id="mainArea" class="quickFade delayFive">
+	<div id="mainArea">
 		
 		<section>
 			<div class="sectionTitle">
@@ -53,8 +46,16 @@
 			</div>
 			
 			<div class="sectionContent">
+			
+			<ul>
+				<li>Github</li>
+				<li>PowerBI</li>
+				<li>Powershell</li>
+				<li>AWS</li>
+				<li>Linux</li>
+			</ul>
 				<article>
-					<p style="margin-left: 40px"><h2>Github</h2></p>
+					<h2>Github</h2>
 					<p>Description of github skills.</p>
 				</article>
 				
