@@ -1,20 +1,4 @@
-# Julia Johnson - Technical Resume
-## Education
-### University of Tulsa
- <li>Majors: Computer Information Systems and Accounting 
- <li>Minor: Mathematics (for now)
-
-### Universidad de Alicante
-  <li> Study Abroad Program - Summer of 2018
- 
-## Technical Skills
- <li> Github
- <li> PowerBI
-  <li> PowerShell
-   <li> AWS
-    <li> Linux
-     
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
 <title>Julia Johnson - Technical Resume</title>
@@ -55,7 +39,7 @@
 			
 			<div class="sectionContent">
 				<article>
-					<h2>Github</h2>
+					<li><h2>Github</h2></li>
 					<p>Description of github skills.</p>
 				</article>
 				
