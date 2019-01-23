@@ -57,11 +57,7 @@
 				
 			</div>
 			<div class="clear"></div>
-		</section>
-		
-		
-		
-		
+		</section>	
 	</div>
 </div>
 </body>
