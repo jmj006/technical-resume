@@ -52,7 +52,10 @@
 			<ul>
 				<li>Github</li>
 				<li>PowerBI</li>
-				<li>Completed the training modules on edX. See this link for proof of completion.</li>
+				<ul>
+					<li>Completed the training modules on edX. See this link for proof of completion.</li>
+					<li>https://github.com/jmj006/PowerBI/blob/master/README.md</li>
+				</ul>
 				<li>Powershell</li>
 				<li>AWS</li>
 				<li>Linux</li>
