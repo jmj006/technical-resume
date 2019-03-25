@@ -65,6 +65,7 @@
 				<li>Linux</li>
 				<ul>
 					<li>Completed the Linux edX course. </li>
+					<img src="Screen Shot 2019-03-25 at 4.59.59 PM.png" alt="hi" class="inline"/>
 				</ul>
 			</ul>
 				
