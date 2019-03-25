@@ -51,6 +51,10 @@
 			
 			<ul>
 				<li>Github</li>
+				<ul>
+					<li>Completed all of the Github training modules.</li>
+				</ul>
+					
 				<li>PowerBI</li>
 				<ul>
 					<li>Completed the training modules on edX. See this link for proof of completion.</li>
@@ -59,6 +63,9 @@
 				<li>Powershell</li>
 				<li>AWS</li>
 				<li>Linux</li>
+				<ul>
+					<li>Completed the Linux edX course. </li>
+				</ul>
 			</ul>
 				
 			</div>
