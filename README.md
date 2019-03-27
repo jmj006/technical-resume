@@ -63,7 +63,7 @@
 				<ul>
 					<details>
 					<li>Completed the training modules on edX. See this link for proof of completion.</li>
-					<a href="https://github.com/jmj006/PowerBI/blob/master/README.md">Click here for proof of completion</a>
+					<a href="https://jmj006.github.io/PowerBI/">Click here for proof of completion</a>
 					</details>
 				</ul>
 		
