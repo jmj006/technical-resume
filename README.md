@@ -66,7 +66,7 @@
 				<ul>
 					<details>
 					<li>Completed a course on Linux Academy covering the basics of using Linux</li>
-					<img src="Screen Shot 2019-03-25 at 4.59.59 PM.png" alt="hi" class="inline"/>
+					<img src="Screen Shot 2019-03-27 at 11.28.12 AM.png" alt="hi" class="inline"/>
 					</details>
 				</ul>
 			</ul>
