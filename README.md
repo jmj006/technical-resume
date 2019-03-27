@@ -52,16 +52,23 @@
 			<ul>
 				<li>Github</li>
 				<ul>
-					<li>Completed all of the Github training modules.</li>
+					<details>
+					<li>Completed the online Github training modules to learn the basics of Github</li>
+					<img src="Screen Shot 2019-03-27 at 11.28.12 AM.png" alt="hi" class="inline"/>
+					<img src="Screen Shot 2019-03-27 at 11.28.27 AM.png" alt="hi" class="inline"/>
+					</details>
 				</ul>
 					
 				<li>PowerBI</li>
 				<ul>
+					<details>
 					<li>Completed the training modules on edX. See this link for proof of completion.</li>
-					<li>https://github.com/jmj006/PowerBI/blob/master/README.md</li>
+					<a href="https://github.com/jmj006/PowerBI/blob/master/README.md">Click here for proof of completion</a>
+					</details>
 				</ul>
-				<li>Powershell</li>
+		
 				<li>AWS</li>
+				
 				<li>Linux</li>
 				<ul>
 					<details>
