@@ -68,6 +68,12 @@
 				</ul>
 		
 				<li>AWS</li>
+				<ul>
+					<details>
+					<li>Completed a course on Linux Academy covering the basics of using AWS</li>
+					<img src="Screen Shot 2019-04-03 at 3.04.31 PM.png" alt="hi" class="inline"/>
+					</details>
+				</ul>
 				
 				<li>Linux</li>
 				<ul>
