@@ -86,7 +86,7 @@
 				<li>Salesforce - Slack</li>
 				<ul>
 					<details>
-					<li>Completed a course through Salesforce Trailhead learning how to build a bot in Slack. This course also covered the basics in Slack API</li>
+					<li>Completed a course through Salesforce Trailhead learning how to build a bot in Slack. This course also covered the basics of Slack API</li>
 					<img src="Screen Shot 2019-04-18 at 2.55.13 PM.png" alt="hi" class="inline"/>
 					</details>
 				</ul>
