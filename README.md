@@ -54,7 +54,7 @@
 				<ul>
 					<details>
 					<li>Completed online Github training modules to learn the basics of Github including managing pull requests, collaborating with peers, and more.</li>
-					<li>Courses:</li>
+					<ul><strong>Courses:</strong></ul>
 					<li>Introduction to GitHub</li>
 					<li>Communicating using Markdown</li>
 					<li>Introduction to HTML</li>
