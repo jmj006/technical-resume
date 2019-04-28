@@ -98,7 +98,25 @@
 				<li>AWS</li>
 				<ul>
 					<details>
-					<li>Completed a course on Linux Academy covering the basics of using AWS</li>
+					<li>Completed the AWS Essentials - NEW course on Linux Academy. This course covered Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53.</li>
+					<ul>
+						  <li>AWS Essentials</li>
+						  <li>Managing AWS Access with Users, Groups, and Roles</li>
+						  <li>Identity and Access Management (IAM)</li>
+						  <li>Networking Services and Connectivity</li>
+						  <li>Virtual Private Cloud (VPC)</li>
+						  <li>Compute Services</li>
+						  <li>Elastic Cloud Compute (EC2)</li>
+						  <li>Storage Services</li>
+						  <li>Database Services</li>
+						  <li>Monitoring, Alerts, and Notifications</li>
+						  <li>Simple Notification Service (SNS)</li>
+						  <li>Load Balancing, Elasticity, and Scalability</li>
+						  <li>Elastic Load Balancer (ELB)</li>
+						  <li>Auto Scaling</li>
+						  <li>Route 53</li>
+						  <li>Serverless Computing - Lambda</li>
+					</ul>
 					<img src="Screen Shot 2019-04-03 at 3.04.31 PM.png" alt="hi" class="inline"/>
 					</details>
 				</ul>
