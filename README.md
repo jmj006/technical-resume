@@ -153,7 +153,15 @@
 				<li>Salesforce - Slack</li>
 				<ul>
 					<details>
-					<li>Completed a course through Salesforce Trailhead learning how to build a bot in Slack. This course also covered the basics of Slack API</li>
+					<li>Completed the Build a Welcome Bot for Slack and Slack Development Basics courses on Salesforce Trailhead. These courses covered Slack Apps, Slack Messages, and Slack API's.</li>
+					<ul>
+						<strong>Topics:</strong>
+						<li>Slack Apps</li>
+						<li>Slack Messages</li>
+						<li>Slack API's</li>
+						<li>Slack Bots</li>  
+					</ul>
+					
 					<img src="Screen Shot 2019-04-18 at 2.55.13 PM.png" alt="hi" class="inline"/>
 					</details>
 				</ul>
