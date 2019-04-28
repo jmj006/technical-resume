@@ -55,7 +55,7 @@
 					<details>
 					<li>Completed online Github training modules to learn the basics of Github including managing pull requests, collaborating with peers, and more.</li>
 					<ul>
-						<strong>Courses:</strong>
+						<strong>Topics:</strong>
 						<li>Introduction to GitHub</li>
 						<li>Communicating using Markdown</li>
 						<li>Introduction to HTML</li>
@@ -81,7 +81,7 @@
 					<li>Completed the Analyzing and Visualizing Data with Power BI course on edX. This course covered the basics of creating dashboards in Power BI as well as effective ways to visualize data.</li>
 					
 					<ul>
-						<strong>Courses:</strong>
+						<strong>Topics:</strong>
 						<li>Power BI Desktop Data Transformations</li>
 						<li>Power BI Desktop Modelling</li>
 						<li>Power BI Desktop Visualization</li>
@@ -100,6 +100,7 @@
 					<details>
 					<li>Completed the AWS Essentials - NEW course on Linux Academy. This course covered Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53.</li>
 					<ul>
+						  <strong>Topics:</strong>
 						  <li>AWS Essentials</li>
 						  <li>Managing AWS Access with Users, Groups, and Roles</li>
 						  <li>Identity and Access Management (IAM)</li>
@@ -124,7 +125,27 @@
 				<li>Linux</li>
 				<ul>
 					<details>
-					<li>Completed a course on Linux Academy covering the basics of using Linux</li>
+					<li>Completed the LPI Linux Essentials course on Linux Academy. This course covered the Linux operating system, the Linux kernel, and the Linux command line syntax. </li>
+					<ul>
+						<strong>Topics:</strong>
+						<li>The Linux Community and a Career in Open Source</li>
+						<li>Linux Evolution and Popular Operating Systems</li>
+						<li>How to Access a Linux Installation</li>
+						<li>Major Open Source Applications</li>  
+						<li>Understanding Open Source Software and Licensing</li> 
+						<li>ICT Skills and Working in Linux</li>
+						<li>Command Line Basics</li> 
+						<li>Using Directories and Listing Files</li> 
+						<li>Archiving Files on the Command Line</li> 
+						<li>Searching and Extracting Data from Files</li> 
+						<li>Turning Commands into a Script</li>
+						<li>The Linux Operating System</li>
+						<li>Security and File Permissions</li>
+						<li>Basic Security and Identifying User Groups</li>
+						<li>Creating Users and Groups</li> 
+						<li>Managing File Permissions and Ownership</li> 
+						<li>Special Directories and Files</li> 
+					</ul>
 					<img src="Screen Shot 2019-03-27 at 11.28.12 AM.png" alt="hi" class="inline"/>
 					</details>
 				</ul>
