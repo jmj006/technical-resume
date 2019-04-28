@@ -78,8 +78,8 @@
 				<li>PowerBI</li>
 				<ul>
 					<details>
-					<li>Completed the Analyzing and Visualizing Data with Power BI course on edX. This course covered the basics of creating dashboards in Power BI as well as effective ways to visualize data. See the following link for proof of completion.</li>
-					<a href="https://jmj006.github.io/PowerBI/">Click here for proof of completion</a>
+					<li>Completed the Analyzing and Visualizing Data with Power BI course on edX. This course covered the basics of creating dashboards in Power BI as well as effective ways to visualize data.</li>
+					
 					<ul>
 						<strong>Courses:</strong>
 						<li>Power BI Desktop Data Transformations</li>
@@ -91,6 +91,7 @@
 						<li>Developer API</li>
 						<li>Mobile App</li>
 					</ul>
+					<a href="https://jmj006.github.io/PowerBI/">Click here for proof of completion</a>
 					</details>
 				</ul>
 		
