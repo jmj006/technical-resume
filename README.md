@@ -55,19 +55,19 @@
 					<details>
 					<li>Completed online Github training modules to learn the basics of Github including managing pull requests, collaborating with peers, and more.</li>
 					<ul>
-					<li><strong>Courses:</strong></li>
-					<li>Introduction to GitHub</li>
-					<li>Communicating using Markdown</li>
-					<li>Introduction to HTML</li>
-					<li>GitHub Pages</li>
-					<li>Managing merge conflicts</li>
-					<li>Community Starter Kit</li>
-					<li>Uploading your project to GitHub</li>
-					<li>Getting started with GitHub Apps</li>
-					<li>Migrating your repository to GitHub</li>
-					<li>Reviewing pull requests</li>
-					<li>Securing your workflows</li>
-					<li>Create a release based workflow</li>
+						<li><strong>Courses:</strong></li>
+						<li>Introduction to GitHub</li>
+						<li>Communicating using Markdown</li>
+						<li>Introduction to HTML</li>
+						<li>GitHub Pages</li>
+						<li>Managing merge conflicts</li>
+						<li>Community Starter Kit</li>
+						<li>Uploading your project to GitHub</li>
+						<li>Getting started with GitHub Apps</li>
+						<li>Migrating your repository to GitHub</li>
+						<li>Reviewing pull requests</li>
+						<li>Securing your workflows</li>
+						<li>Create a release based workflow</li>
 					</ul>
 
 					<img src="Screen Shot 2019-03-27 at 11.37.11 AM.png" alt="hi" class="inline"/>
