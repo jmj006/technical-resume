@@ -79,7 +79,7 @@
 				<ul>
 					<details>
 					<li>Completed the Analyzing and Visualizing Data with Power BI course on edX. This course covered the basics of creating dashboards in Power BI as well as effective ways to visualize data.</li>
-					
+					<li>Additionally, I created a Power BI dashboard to cover the procurement data for a company. Follow<a href="https://www.youtube.com/watch?v=CIDcPUWRXfg">this link</a>to see an overview of the information.
 					<ul>
 						<strong>Topics:</strong>
 						<li>Power BI Desktop Data Transformations</li>
